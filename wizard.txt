@@ -1,0 +1,5 @@
+name="Nova Build"
+url="https://archive.org/download/novabuild/novabuild1.0.5.zip"
+img="https://raw.githubusercontent.com/TigerSamm/novaWIZ/master/icon.png"
+fanart="https://raw.githubusercontent.com/TigerSamm/novaWIZ/master/fanart.jpg"
+description="a minimal build for KODI"
