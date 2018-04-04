@@ -1,5 +1,5 @@
 name="Nova Build"
-url="https://drive.google.com/uc?export=download&confirm=XPTd&id=1qvm53-zH6FdEXQMa6SwwOSFaSdVkfbgI"
+url="https://www.dropbox.com/s/mnwpdltx5dlsaif/build.zip?dl=1"
 img="https://raw.githubusercontent.com/TigerSamm/novaWIZ/master/icon.png"
 fanart="https://raw.githubusercontent.com/TigerSamm/novaWIZ/master/fanart.jpg"
 description="a minimal build for KODI"
